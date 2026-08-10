@@ -1,0 +1,15 @@
+{
+  "name": "Wosha",
+  "short_name": "Wosha",
+  "description": "Wosha — car wash and detailing business management",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#0B1B33",
+  "icons": [
+    { "src": "https://wosha-api.onrender.com/api/app-icon/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "https://wosha-api.onrender.com/api/app-icon/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "https://wosha-api.onrender.com/api/app-icon/icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "https://wosha-api.onrender.com/api/app-icon/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
